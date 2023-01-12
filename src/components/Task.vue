@@ -18,6 +18,7 @@ export default {
     task: Object,
   },
 }
+console.log(Kassy);
 </script>
 
 <style scope>
